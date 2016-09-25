@@ -1,0 +1,4 @@
+*.swp
+bootstrap/arch-mini-bootstrap.tar.xz
+bootstrap/arch-mini-bootstrap.tar.xz.sha512
+packages
